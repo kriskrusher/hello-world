@@ -1,2 +1,1 @@
-# hello-world
-tutorial
+skynet has become self aware
