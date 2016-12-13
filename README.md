@@ -1,1 +1,5 @@
-skynet has become self aware
+
+# skynet
+no it hasn't liar
+
+
